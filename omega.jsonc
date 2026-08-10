@@ -1,0 +1,9 @@
+  {
+    "$schema": "https://omega.aws/v0.1.0/schema.json",
+    "name": "omega-git-canary",
+    "deploy": {
+      "install": "echo no-install",
+      "build": "echo no-build",
+      "output_directory": "."
+    }
+  }
