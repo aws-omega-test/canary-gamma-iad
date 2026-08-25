@@ -1,0 +1,2 @@
+head branch for the PR canary
+rotated by 2026/08/25/Hydra-omega-github-pr-canary-gamma-us-east-1-434553055[$LATEST]8c5c212232e24fefbae9c0f7e5ac331f
